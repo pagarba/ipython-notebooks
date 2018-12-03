@@ -7,7 +7,7 @@ ipython-notebooks
 
 These notebooks contain introductory content such as an overview of the language and a review of IPython's functionality.
 
-<a href="https://github.com/pagarba/ipython-notebooks/blob/master/notebooks/language/Intro.ipynb">Introduction To Python</a><br/>
+<a href="https://github.com/pagarba/ipython-notebooks/blob/master/notebooks/language/Intro.ipynb">Introduction To Python </a><br/>
 <a href="https://github.com/pagarba/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb">IPython Magic Commands</a>
 
 #### Libraries
